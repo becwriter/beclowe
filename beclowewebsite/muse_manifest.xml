@@ -1,0 +1,90 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="beclowe.squarespace.com" resolutions="1x" timestamp="1480424462235">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4101279677" ref="portfolio:about:index:cmpa:theatre:contact:design-100"/>
+    <file name="portfolio.css" crc="4052647893" ref="portfolio"/>
+    <file name="about.css" crc="296065521" ref="about"/>
+    <file name="index.css" crc="344194152" ref="index"/>
+    <file name="cmpa.css" crc="4181379665" ref="cmpa"/>
+    <file name="theatre.css" crc="4234124777" ref="theatre"/>
+    <file name="contact.css" crc="3777897174" ref="contact"/>
+    <file name="design-100.css" crc="4087318881" ref="design-100"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume.pdf" crc="3933346804" seo="true" mt="1479782846000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="webpro.js" crc="3848665353" ref="index:cmpa:design-100:contact:theatre"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:cmpa:design-100:theatre"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:cmpa:design-100:theatre"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:cmpa:design-100:theatre"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="require.js" crc="244322403" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="form_check.php" crc="4091251153" ref="contact"/>
+    <file name="form_process.php" crc="444353918" ref="contact"/>
+    <file name="form-u2060.php" crc="424877109" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="logo -recovered-.png" crc="132646632" seo="true" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="11880658_959103000815853_7092656173755291364_n.jpg" crc="3941113699" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:cmpa:design-100:theatre"/>
+    <file name="12783782_728140910644_5310796345676100422_o-crop-u2528.jpg" crc="235797062" ref="index"/>
+    <file name="13227731_1108000389263965_624321902520000365_o.jpg" crc="3817631147" seo="true" ref="index"/>
+    <file name="14102749_1036223753140199_8797571816514136730_n.jpg" crc="168738770" seo="true" ref="index"/>
+    <file name="11880658_959103000815853_7092656173755291364_n68x45.jpg" crc="107050082" seo="true" ref="index"/>
+    <file name="12783782_728140910644_5310796345676100422_o-crop-u2536.jpg" crc="255270776" ref="index"/>
+    <file name="13227731_1108000389263965_624321902520000365_o68x45.jpg" crc="3911799154" seo="true" ref="index"/>
+    <file name="14102749_1036223753140199_8797571816514136730_n68x45.jpg" crc="3842595160" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:cmpa:design-100:theatre"/>
+    <file name="tumblr_static_white_crumbled_paper_texture_by_babybird_stock.jpg" crc="59620399" ref="index:about:portfolio:cmpa:design-100:contact:theatre"/>
+    <file name="15167536_171926199944076_6136979543137803632_o.jpg" crc="21018580" seo="true" ref="about"/>
+    <file name="cinemagraph_lowe1.gif" crc="193492785" seo="true" ref="cmpa"/>
+    <file name="cinemagraph_lowe2.gif" crc="304372536" seo="true" ref="cmpa"/>
+    <file name="cinemagraph_lowe3.gif" crc="520127574" seo="true" ref="cmpa"/>
+    <file name="lowe_car.jpg" crc="3803376475" seo="true" ref="cmpa"/>
+    <file name="midterm_lowe (1).jpg" crc="372083451" seo="true" ref="cmpa"/>
+    <file name="lowe_car35x45.jpg" crc="300825958" seo="true" ref="cmpa"/>
+    <file name="midterm_lowe (1)45x45.jpg" crc="414449714" seo="true" ref="cmpa"/>
+    <file name="img_9008.jpg" crc="515765085" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15708 pm.jpg" crc="3899583972" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15715 pm.jpg" crc="3853882250" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15723 pm.jpg" crc="4005402350" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15730 pm.jpg" crc="85391134" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15739 pm.jpg" crc="187742839" seo="true" ref="design-100"/>
+    <file name="img_9245.jpg" crc="3795929119" seo="true" ref="design-100"/>
+    <file name="img_9581.jpg" crc="75100951" seo="true" ref="design-100"/>
+    <file name="15203389_910987645698910_6602880698027796246_n.jpg" crc="409844705" seo="true" ref="design-100"/>
+    <file name="img_900845x45.jpg" crc="4175973781" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15708 pm45x45.jpg" crc="4018223276" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15715 pm45x45.jpg" crc="4219408538" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15723 pm45x45.jpg" crc="3920911331" seo="true" ref="design-100"/>
+    <file name="screen shot 2016-11-22 at 15739 pm45x45.jpg" crc="428676756" seo="true" ref="design-100"/>
+    <file name="img_924545x45.jpg" crc="4136625116" seo="true" ref="design-100"/>
+    <file name="15203389_910987645698910_6602880698027796246_n60x45.jpg" crc="467195711" seo="true" ref="design-100"/>
+    <file name="1933685_729367403860936_3133880276355118436_o.jpg" crc="92166226" seo="true" ref="theatre"/>
+    <file name="10688378_644809445650066_1884338143547288890_o.jpg" crc="416216846" seo="true" ref="theatre"/>
+    <file name="12654159_749609518503391_7951202517557682957_n.jpg" crc="3968064250" seo="true" ref="theatre"/>
+    <file name="13086857_796468893817453_7236548083813756404_o.jpg" crc="519814643" seo="true" ref="theatre"/>
+    <file name="13735695_839881649476177_237723254920712723_o.jpg" crc="3983114590" seo="true" ref="theatre"/>
+    <file name="1933685_729367403860936_3133880276355118436_o36x45.jpg" crc="253546741" seo="true" ref="theatre"/>
+    <file name="10688378_644809445650066_1884338143547288890_o60x40.jpg" crc="321513356" seo="true" ref="theatre"/>
+    <file name="12654159_749609518503391_7951202517557682957_n34x45.jpg" crc="449477208" seo="true" ref="theatre"/>
+    <file name="13086857_796468893817453_7236548083813756404_o60x45.jpg" crc="80622424" seo="true" ref="theatre"/>
+    <file name="13735695_839881649476177_237723254920712723_o37x45.jpg" crc="4123935322" seo="true" ref="theatre"/>
+  </folder>
+  <file name="index.html" crc="3818074598" seo="true" mt="1480423465034" redirect="true"/>
+  <file name="about.html" crc="4210375065" seo="true" mt="1480423565112" redirect="true"/>
+  <file name="portfolio.html" crc="347592571" seo="true" mt="1480012292233" redirect="true"/>
+  <file name="cmpa.html" crc="87476522" seo="true" mt="1479840799201" redirect="true"/>
+  <file name="design-100.html" crc="4247761645" seo="true" mt="1480423645884" redirect="true"/>
+  <file name="contact.html" crc="3785877184" seo="true" mt="1480423391567" redirect="true"/>
+  <file name="theatre.html" crc="4148845309" seo="true" mt="1479840799201" redirect="true"/>
+</manifest>
